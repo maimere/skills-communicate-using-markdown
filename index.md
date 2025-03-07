@@ -1,5 +1,7 @@
-# This is a h1
-Nice text here.
+# To-do list
+- [x] Start
+- [x] Procrastinate
+- [ ] Finish
 ## This is a h2
 Nice text here.
 ### This is a h3
