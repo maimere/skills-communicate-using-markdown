@@ -10,3 +10,5 @@ Nice text here.
 Nice text here.
 ###### This is a h6
 Nice text here.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
