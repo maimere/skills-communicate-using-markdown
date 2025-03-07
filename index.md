@@ -3,7 +3,11 @@ Nice text here.
 ## This is a h2
 Nice text here.
 ### This is a h3
-Nice text here.
+``` awk
+BEGIN{
+  print("Hello, World!)
+}
+```
 #### This is a h4
 Nice text here.
 ##### This is a h5
